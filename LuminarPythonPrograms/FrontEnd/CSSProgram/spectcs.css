@@ -1,0 +1,29 @@
+
+.tbl{
+margin:auto;
+}
+td{
+height:200px;
+padding:100px;
+border:6px solid white;
+}
+h1{
+font-family: 'Lobster', cursive;
+font-family: 'Sansita Swashed', cursive;
+}
+#one{
+background-color:blue;
+}
+#two{
+background-color:yellow;
+}
+#three{
+background-color:green;
+}
+#four{
+background-color:black;
+}
+#five{
+background-color:orange;
+}
+

@@ -1,0 +1,17 @@
+
+#one{
+background-color:cyan;
+color:blue;
+border-style:solid;
+border-color:black;
+border-width:12px;
+}
+
+.three{
+background-color:chartreuse;
+border-color:red;
+border-style:dotted;
+}
+
+
+

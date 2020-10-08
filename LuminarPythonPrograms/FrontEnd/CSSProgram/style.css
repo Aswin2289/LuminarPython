@@ -1,0 +1,17 @@
+/*tag/id/class:
+ property:value*/
+
+h1{
+    color:red;
+}
+/* id selector==#
+    color:rgb()
+
+    */
+#one{
+    color:rgb(90, 90, 99);
+}
+/* class selector = .  */
+.two{
+color:yellow;
+}

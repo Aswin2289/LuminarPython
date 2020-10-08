@@ -25,4 +25,4 @@ def fatchData(**kwargs):
 
 
 
-fatchData(id="1001",prop="desg")
+fatchData(id="1001",prop="salary")
