@@ -1,9 +1,17 @@
 h2{
 color:rgb(94, 6, 138);
 }
-h3{
+h3,h5{
 color:rgb(94, 6, 138);
 }
 .orange-color {
 	color:rgb(204, 122, 245);
+}
+.item2{
+margin-top:150px;}
+.item3{
+margin-left:5%;
+}
+.item4{
+margin-left:15%;
 }

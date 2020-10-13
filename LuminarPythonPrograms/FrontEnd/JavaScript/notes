@@ -1,0 +1,31 @@
+//print chyan  console.log("hello world");
+//or
+//alert("hello world")
+variable declaration should specify   (var keyword)
+eg    var num=10
+       var flt=10.5
+
+to get the type of var
+types are  number,string, boolean, undefined
+console.log(typeof(num))
+to appand we use +
+
+
+To input value=
+-------------------------
+var num=prompt("enter number")
+
+operatorr
+----------
+arithematic(+,-,*,/,%)
+
+relational (>,<,=,<=,>=)
+
+logical( &,|,^)
+
+
+decision
+---------
+if else
+if else if
+
